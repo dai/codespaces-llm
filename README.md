@@ -9,3 +9,9 @@ Then try running this in a terminal:
 llm "Fun facts about pelicans"
 ```
 LLM is configured using the [llm-github-models](https://github.com/tonybaloney/llm-github-models) plugin.
+
+## Custom env
+
+```bash
+uv pip install omnara
+```
