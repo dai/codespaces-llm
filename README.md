@@ -15,3 +15,16 @@ LLM is configured using the [llm-github-models](https://github.com/tonybaloney/l
 ```bash
 uv pip install omnara
 ```
+
+### Python 
+
+- python 3.13.5+
+- uv
+- pyx
+
+- LLMs
+
+- VS Code 
+   - GitHub Copilot
+   - Pull Requests
+   
